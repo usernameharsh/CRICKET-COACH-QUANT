@@ -3,3 +3,5 @@ opencv-python-headless
 mediapipe
 numpy
 pyttsx3
+plotly
+streamlit-option-menu
